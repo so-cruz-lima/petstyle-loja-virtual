@@ -1,5 +1,4 @@
 
-
 Passo 1 – Instalar Tailwind via NPM 
 npm install tailwindcss @tailwindcss/cli
 
@@ -21,10 +20,3 @@ Adicione seu arquivo CSS compilado ao <head> e comece a usar as classes utilitá
 
     </h1> </body> </html> 
     
----
-
-Classes de Utilidade O que são classes de utilidade? 
-Características 
-● São pequenas classes CSS criadas para executar uma única função específica, como aplicar margin, padding, cor de fundo, largura, entre outros. Tailwind CSS - Rapidly build modern websites without ever leaving your HTML. 
-● Permitem aplicar estilos diretamente no HTML, dispensando a criação de folhas de estilo personalizadas para elementos simples. 
-● Esse modelo de estilização contraria práticas tradicionais do CSS, mas oferece vantagens reais e comprovadas em produtividade e manutenção.
